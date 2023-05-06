@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.miaplicacion.proyectoFinal.Security.Service;
+package com.miaplicacion.proyectoFinal.Service;
 
 import com.miaplicacion.proyectoFinal.Entity.Experiencia;
 import com.miaplicacion.proyectoFinal.Repository.RExperiencia;

@@ -7,7 +7,8 @@ package com.miaplicacion.proyectoFinal.Controller;
 import com.miaplicacion.proyectoFinal.Dto.dtoExperiencia;
 import com.miaplicacion.proyectoFinal.Entity.Experiencia;
 import com.miaplicacion.proyectoFinal.Security.Controller.Mensaje;
-import com.miaplicacion.proyectoFinal.Security.Service.SExperiencia;
+import com.miaplicacion.proyectoFinal.Service.SExperiencia;
+
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
