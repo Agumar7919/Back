@@ -1,5 +1,4 @@
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Entity\Persona.java
-C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Security\Service\SExperiencia.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Dto\dtoEducacion.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Entity\hys.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Service\ImpPersonaService.java
@@ -16,8 +15,10 @@ C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\p
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Security\Entity\Usuario.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Repository\IPersonaRepository.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Security\Repository\iRolRepository.java
+C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Dto\dtoPersona.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Dto\dtoHys.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Service\Shys.java
+C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Service\SExperiencia.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Security\Service\UsuarioService.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Security\jwt\JwtProvider.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Security\Entity\UsuarioPrincipal.java
@@ -25,7 +26,6 @@ C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\p
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Entity\Experiencia.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Security\Dto\LoginUsuario.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Dto\dtoExperiencia.java
-C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Interface\IPersonaService.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Repository\Rhys.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\Security\Dto\JwtDto.java
 C:\Users\Agus\Desktop\proyectoFinal\my-app\Back\src\main\java\com\miaplicacion\proyectoFinal\ProyectoFinalApplication.java

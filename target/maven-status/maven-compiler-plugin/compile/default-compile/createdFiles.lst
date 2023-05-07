@@ -15,8 +15,8 @@ com\miaplicacion\proyectoFinal\Service\Shys.class
 com\miaplicacion\proyectoFinal\Security\Enums\RolNombre.class
 com\miaplicacion\proyectoFinal\Security\jwt\JwtEntryPoint.class
 com\miaplicacion\proyectoFinal\Controller\CEducacion.class
+com\miaplicacion\proyectoFinal\Dto\dtoPersona.class
 com\miaplicacion\proyectoFinal\Security\jwt\JwtTokenFilter.class
-com\miaplicacion\proyectoFinal\Security\Service\SExperiencia.class
 com\miaplicacion\proyectoFinal\Entity\hys.class
 com\miaplicacion\proyectoFinal\Security\Dto\JwtDto.class
 com\miaplicacion\proyectoFinal\Security\Entity\Rol.class
@@ -26,7 +26,7 @@ com\miaplicacion\proyectoFinal\Security\MainSecurity.class
 com\miaplicacion\proyectoFinal\Repository\IPersonaRepository.class
 com\miaplicacion\proyectoFinal\Repository\Rhys.class
 com\miaplicacion\proyectoFinal\Security\Repository\iRolRepository.class
-com\miaplicacion\proyectoFinal\Interface\IPersonaService.class
+com\miaplicacion\proyectoFinal\Service\SExperiencia.class
 com\miaplicacion\proyectoFinal\Entity\Persona.class
 com\miaplicacion\proyectoFinal\Security\Repository\iUsuarioRepository.class
 com\miaplicacion\proyectoFinal\Dto\dtoExperiencia.class
